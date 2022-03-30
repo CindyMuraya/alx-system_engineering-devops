@@ -1,2 +1,8 @@
+<<<<<<< HEAD
+=======
+#!/bin/bash
+ls lna
+ls -lna
+>>>>>>> 63d7c5f762b04720aaeb82b34d2e299aebe01884
 !#/bin/bash
 ls -lna
