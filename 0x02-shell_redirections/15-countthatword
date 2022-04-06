@@ -1,16 +1,2 @@
 #!/bin/bash
-grep -c -i "bin" /etc/passwd" >> 15-countthatword
-echo grep -c -i bin /etc/passwd >> 15-countthatword
-echo 'grep -c -i bin /etc/passwd
-grep -c -i "bin" /etc/passwd" >> 15-countthatword
-echo grep -c -i bin /etc/passwd >> 15-countthatword
-
-echo '#!/bin/bash' >> 15-countthatword
-git commit -m 'task 14'
-git push origin main
-
-echo 'grep -c -i bin /etc/passwd
-grep -c -i "bin" /etc/passwd" >> 15-countthatword
-echo grep -c -i bin /etc/passwd >> 15-countthatword
-echo 'grep -c -i bin /etc/passwd
 grep -c -i "bin" /etc/passwd
